@@ -17,8 +17,8 @@
             </strong>
         </p>
         <ul>
-            <li>🔭 <b>I’m currently working</b>: Web apps.</li>
-            <li>🌱 <b>I’m currently learning</b>: ReactJs</li>
+            <li>🔭 <b>I’m currently working</b>: Eccomerce solutions.</li>
+            <li>🌱 <b>I’m currently learning</b>: DevOps</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/iserioton/iserioton/issues">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻). To develope new things in programming.</li>
