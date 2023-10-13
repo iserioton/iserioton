@@ -2,10 +2,6 @@
     <div align=center>
         <img src="./coffe.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-    <div align=center>
-        <a href="https://www.linkedin.com/in/keval-rakholiya/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://stackoverflow.com/users/18131806/keval-rakholiya"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-    </div>
     <div align=left>
         <br>
         <p>
