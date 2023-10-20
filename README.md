@@ -26,16 +26,10 @@
 
 ## Fun Facts About Me 😄
 - 💻 **Coding**: My passion lies in coding, where I love crafting new and innovative solutions through programming.
-
-<div align=center>
-  <img src="https://streak-stats.demolab.com?user=iserioton&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak">
-</div>
-    <br><br><br>
 Let's embark on a journey through the ever-evolving world of technology together! ✨
     </div>
     <br><br><br>
     <div align=center>
-        <img src="./GitHubLoader.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading...</p>
-    </div>
+  <img src="https://streak-stats.demolab.com?user=iserioton&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak">
+</div>
 </div>
