@@ -27,7 +27,7 @@
 ## Fun Facts About Me 😄
 - 💻 **Coding**: My passion lies in coding, where I love crafting new and innovative solutions through programming.
 
-<div align="center">
+<div align=center>
   <img src="https://streak-stats.demolab.com?user=iserioton&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&card_width=500" alt="GitHub Streak">
 </div>
 
