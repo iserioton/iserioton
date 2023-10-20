@@ -26,6 +26,8 @@
 
 ## Fun Facts About Me 😄
 - 💻 **Coding**: My passion lies in coding, where I love crafting new and innovative solutions through programming.
+
+<br><br>
 Let's embark on a journey through the ever-evolving world of technology together! ✨
     </div>
     <br><br><br>
