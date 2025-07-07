@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="./coffe.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="./coffe.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" width="200">
     </div>
     <div align=left>
         <br>
